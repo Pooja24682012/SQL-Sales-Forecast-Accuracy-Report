@@ -49,4 +49,18 @@ Designed SQL stored procedures to generate a [Forecast Accuracy Report for custo
 
 - **Role :** Guides strategic choices in sales, customer relations, and demand optimization.
 
+## Technical Skills:
+- [x]	Proficient in SQL queries including SELECT, JOINs, WHERE, GROUP BY, HAVING, and aggregate functions.
+- [x]	Experienced in Common Table Expressions (CTEs) for query readability, reusability, and complex analytics.
+- [x]	Skilled in creating and using stored procedures for automation, performance, and secure query execution.
+- [x]	Expertise in user-defined functions (UDFs) to implement reusable logic and calculations.
+- [x]	Proficient in temporary tables and views for session-based data storage and virtual table creation.
+- [x]	Knowledge of query optimization and indexing for faster data retrieval and report generation.
+
+## Soft Skills:
+- [x]	Analytical approach to interpreting data and generating actionable insights.
+- [x]	Designing efficient, reusable, and readable SQL queries for complex datasets.
+- [x]	Optimizing query performance through indexing, CTEs, and temporary tables.
+- [x]	Developing systematic workflows for database management, ETL processes, and reporting.
+
   
