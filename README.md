@@ -2,7 +2,7 @@
 
 - **Project objective:**
 
- Created comprehensive [Gross Sales Analytics Report for Croma (FY-2021 Q4)](https://github.com/Pooja24682012/SQL-Sales-Analytics-Forecast-Accuracy-Report/blob/main/Sales%20Analytics%20Report%20-Croma.pdf) to analyze customer-level sales performance across each product and its variants based on sold quantity.
+ Created comprehensive SQL Query [Gross Sales Analytics Report for Croma (FY-2021 Q4)](https://github.com/Pooja24682012/SQL-Sales-Analytics-Forecast-Accuracy-Report/blob/main/Sales%20Analytics%20Report%20-Croma.pdf) to analyze customer-level sales performance across each product and its variants based on sold quantity.
 
 
 
